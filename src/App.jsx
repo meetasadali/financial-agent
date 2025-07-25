@@ -94,10 +94,10 @@ const extractJson = (text, type = 'object') => {
 
 const App = () => {
   // --- ⬇️ PASTE YOUR DEFAULT API KEYS HERE ⬇️ ---
-  const DEFAULT_GEMINI_API_KEY = "YOUR_GEMINI_API_KEY";
+  const DEFAULT_GEMINI_API_KEY = "AIzaSyBMpaSkdNZmBbgXoiHOttc0Th60ScT3PeY";
   const DEFAULT_CHATGPT_API_KEY = "YOUR_CHATGPT_API_KEY";
-  const DEFAULT_COHERE_API_KEY = "YOUR_COHERE_API_KEY";
-  const DEFAULT_FMP_API_KEY = "YOUR_FMP_API_KEY"; // Financial Modeling Prep Key
+  const DEFAULT_COHERE_API_KEY = "Xzg01JpuqKRtkXIGNUmiy4Sd0XNH9JyGWyzhmzbh";
+  const DEFAULT_FMP_API_KEY = "MWHZ0xRkj9rvZeDuDxIj2JalEB05RUPz"; // Financial Modeling Prep Key
   // --- ⬆️ PASTE YOUR DEFAULT API KEYS HERE ⬆️ ---
 
   // Agent State
